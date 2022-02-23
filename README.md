@@ -17,11 +17,19 @@ Currently a few things are still under development:
 
 - [x] Base Model
 - [x] Solar Marine Model
-- [ ] Solar Marine UVs
+- [X] Solar Marine UVs
 - [ ] Solar Marine Rigging
 - [x] Millennium Blade Model
 - [ ] Millennium Blade UVs
+- [ ] clean file structure in all folders
 
+#### Workflow
+
+If I map the workflow I did it would be like this:
+
+`base model` -> `outfit`(base model + outfit "eg: solar marine" ) -> `uv`(outfit + material/texture) -> `rigging`(outfit+uv+rig) -> `output mesh`(all together in fbx format)
+
+keep in mind that the model is not perfect and might have some problem(such as typology, uvs or rigging) as I'm still learning to build a proper model with blender and I iterate as I learn new things. 
 
 
 
