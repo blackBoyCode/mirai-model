@@ -25,7 +25,6 @@ Currently a few things are still under development:
 - [X] Millennium Blade UVs
 - [ ] clean file structure in all folders
 
-
 #### Workflow
 
 If I map the workflow I did it would be like this:
@@ -37,7 +36,7 @@ keep in mind that the model is not perfect and might have some problem(such as t
 
 #### Support
 
-If you like the model, using it in your own project and wish to support/encourage me for this repository then you can do so with the following:
+If you like the model, using it in your own project and wish to support/encourage me to build more then you can do so with the following:
 
 ###### Ethereum Address/QR code
 
@@ -45,5 +44,4 @@ If you like the model, using it in your own project and wish to support/encourag
 0xae9a8dc73958a542aad147cbc85bd2d19b1ff136
 ```
 ![](https://zxing.org/w/chart?cht=qr&chs=350x350&chl=0xae9a8dc73958a542aad147cbc85bd2d19b1ff136)
-
 
