@@ -2,6 +2,8 @@
 
 ### A flexible mirai open source model. 
 
+![](/solar_marine_model/render_image/sample_solar_marine.png)
+
 #### Info
 
 ##### _All models are build using Blender_  
@@ -20,8 +22,9 @@ Currently a few things are still under development:
 - [X] Solar Marine UVs
 - [ ] Solar Marine Rigging
 - [x] Millennium Blade Model
-- [ ] Millennium Blade UVs
+- [X] Millennium Blade UVs
 - [ ] clean file structure in all folders
+
 
 #### Workflow
 
@@ -31,5 +34,16 @@ If I map the workflow I did it would be like this:
 
 keep in mind that the model is not perfect and might have some problem(such as typology, uvs or rigging) as I'm still learning to build a proper model with blender and I iterate as I learn new things. 
 
+
+#### Support
+
+If you like the model, using it in your own project and wish to support/encourage me for this repository then you can do so with the following:
+
+###### Ethereum Address/QR code
+
+```
+0xae9a8dc73958a542aad147cbc85bd2d19b1ff136
+```
+![](https://zxing.org/w/chart?cht=qr&chs=350x350&chl=0xae9a8dc73958a542aad147cbc85bd2d19b1ff136)
 
 
